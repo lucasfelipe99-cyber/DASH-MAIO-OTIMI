@@ -1,0 +1,40 @@
+{
+  "months": {
+    "1": {
+      "fileName": "DB - Custo MKP 2026.xlsx",
+      "storedName": "current-base-1.xlsx",
+      "updatedAt": "2026-05-04T18:42:13.856Z",
+      "size": 2148309
+    },
+    "2": {
+      "fileName": "DB - Custo MKP 2026.xlsx",
+      "storedName": "current-base-2.xlsx",
+      "updatedAt": "2026-05-04T21:02:22.831Z",
+      "size": 1766786,
+      "rowsName": "current-rows-2.json",
+      "rowsUpdatedAt": "2026-05-04T21:02:24.112Z"
+    },
+    "3": {
+      "fileName": "DB - Custo MKP 2026.xlsx",
+      "storedName": "current-base-3.xlsx",
+      "updatedAt": "2026-05-04T21:03:38.552Z",
+      "size": 2007522,
+      "rowsName": "current-rows-3.json",
+      "rowsUpdatedAt": "2026-05-04T21:03:39.946Z"
+    },
+    "4": {
+      "fileName": "DB - Custo MKP 2026.xlsx",
+      "storedName": "current-base-4.xlsx",
+      "updatedAt": "2026-05-04T18:40:27.802Z",
+      "size": 1537393
+    },
+    "5": {
+      "fileName": "DB - Custo MKP 2026.xlsx",
+      "storedName": "current-base-5.xlsx",
+      "updatedAt": "2026-05-05T19:44:22.512Z",
+      "size": 355419,
+      "rowsName": "current-rows-5.json",
+      "rowsUpdatedAt": "2026-05-05T19:44:22.941Z"
+    }
+  }
+}
